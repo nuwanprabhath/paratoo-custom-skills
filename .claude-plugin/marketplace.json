@@ -1,0 +1,17 @@
+{
+  "name": "paratoo-custom-skills",
+  "owner": {
+    "name": "paratoo-fdcp contributors"
+  },
+  "metadata": {
+    "description": "Skills adopted from other sources and adapted for the paratoo-fdcp monorepo."
+  },
+  "plugins": [
+    {
+      "name": "paratoo-skills",
+      "source": "./",
+      "description": "blast-radius, why, correct, create-verification-skill, maintain-verification-skill — adapted for paratoo-fdcp.",
+      "version": "0.1.0"
+    }
+  ]
+}

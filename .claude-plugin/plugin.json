@@ -1,0 +1,10 @@
+{
+  "name": "paratoo-skills",
+  "version": "0.1.0",
+  "description": "Claude Code skills adopted and adapted for the paratoo-fdcp monorepo: blast-radius, why, correct, create-verification-skill, maintain-verification-skill.",
+  "author": {
+    "name": "paratoo-fdcp contributors"
+  },
+  "license": "MIT",
+  "keywords": ["paratoo", "strapi", "vue", "quasar", "gitlab", "code-review", "verification"]
+}
